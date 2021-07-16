@@ -7,10 +7,10 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Task 2",
-      "day": "Feb 3rd at 2:00pm",
-      "reminder": false
+      "text": "Another Test",
+      "day": "Tthere we go",
+      "reminder": false,
+      "id": 2
     }
   ]
 }
